@@ -23,3 +23,6 @@ Here are some ideas to get you started:
 
 ## My Stats
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=zeynepssasmaz&show_icons=true&theme=radical)
+
+## Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepssasmaz&layout=compact&theme=tokyonight)](https://github.com/zeynepssasmaz)
