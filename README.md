@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm ZEYNEP
 
 ## 
 Here are some ideas to get you started:
@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👨‍💻 All of my projects are available at https://github.com/zeynepssasmaz
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&[link](https://github.com/zeynepssasmaz)=https://github.com/zeynepssasmaz)]() 
-[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](link) 
+ <a href="https://medium.com/@zeynepssasmaz953" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-%40mona--roza-orange"></a> </a> <br>
 [<img width="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/2048px-Linkedin_icon.svg.png" align="left" />][linkedin]
 [<img width="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" align="left" />][instagram]
 
