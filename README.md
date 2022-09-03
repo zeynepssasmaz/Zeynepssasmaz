@@ -20,7 +20,3 @@ Here are some ideas to get you started:
 
 ## My Stats
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=zeynepssasmaz&show_icons=true&theme=radical)
-
-## Ecole 42 Stats
-
-[![zsasmaz's 42 stats](https://badge42.vercel.app/api/v2/cl5d1bsok003509l94ic4d4cn/stats?cursusId=21&coalitionId=227)](https://github.com/zeynepssasmaz)
