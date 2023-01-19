@@ -1,5 +1,5 @@
 
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://www.sanjuan.edu/cms/lib/CA01902727/Centricity/Domain/8408/coding_function.gif">
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=2500&size=30&color=C11212&width=300&lines=I+am+developer"></a></h3>
 
 ### Hi there, I'm ZEYNEP👋
 
