@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 | 5A   | FdF            |  XXX      |     23  | inception         |    🔒   |
 | 5B   | so_long        | `101`     |     24  | ft_transcendence  |    🔒   |
 | 5C   | Fractal        |  XXX      |
-| 6A   | minitalk       | '125'     |      EXAM | EXAMS           |    X    |
+| 6A   | minitalk       | `125`     |      EXAM | EXAMS           |    X    |
 | 6B   | pipex          |  XXX      |      A   | Exam Rank 02     |    🔒   |
-| 7    | push_swap      | '84'      |      B   | Exam Rank 03     |    🔒   |
+| 7    | push_swap      | `84`      |      B   | Exam Rank 03     |    🔒   |
 | 8    | minishell      | 🔒       |      C   | Exam Rank 04      |    🔒   |
 | 9    | philosphers    | 🔒       |      D   | Exam Rank 05      |    🔒   |
 | 10A  | cub3d          | 🔒       |      E   | Exam Rank 06      |    🔒   |
